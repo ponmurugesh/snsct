@@ -88,9 +88,10 @@
     photo: "http://s.gravatar.com/avatar/80cf20b8702414b4c96a8bad01563c83?s=80"
     contribution: QA, Localization
     
--   name: Karthik S
-    twitter: kathikruju
+-    name: Ponmurugesh.M
+    twitter: ponmurugesh007
     description: Contributor
-    photo: "https://s.gravatar.com/avatar/58b420f0cb8e116904e1cf491a18354f?s=80"
-    contribution: QA, Rust
+    photo:"https://s.gravatar.com/avatar/eb002722559b7af5b50f3fd000795d4d?s=80"
+    contribution: QA, WebVR
+    
     
